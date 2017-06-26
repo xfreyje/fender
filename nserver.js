@@ -1,5 +1,11 @@
 /*jslint node:true*/
 
+// Adding a comments section
+// Created by: Jeff Frey
+// Purpose: 	1. To outline the usage of API management tools against a 
+//		   correctly-written REST API endpoint.
+// 		2. As a POC for the NEO (NodeJS, Express, Oracle) stack.
+
 var express = require('express');
 var app = express();
 var bodyParser = require('body-parser');
